@@ -66,7 +66,6 @@
 　→通知を送信する前に、ユーザーに確認のダイアログを表示する
 * 各機能にオンオフ（カスタマイズ）
 
-## 画面遷移図　（figma）
-https://www.figma.com/file/Ybm4gxo3LVLyLAfkK3CbVb/%E3%81%8A%E3%81%B0%E3%81%82%E3%81%A1%E3%82%83%E3%82%93%E7%94%A8?type=design&node-id=0%3A1&mode=design&t=HXxmLC0Gjpi3KaO9-1
+
 
 
